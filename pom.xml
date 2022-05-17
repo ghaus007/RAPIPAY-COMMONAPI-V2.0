@@ -51,6 +51,11 @@
 			<artifactId>mssql-jdbc</artifactId>
 		</dependency>
 		<dependency>
+			<groupId>com.rapipay</groupId>
+			<artifactId>connectorWAD</artifactId>
+			<version>14.0.0</version>
+		</dependency>
+		<dependency>
 			<groupId>redis.clients</groupId>
 			<artifactId>jedis</artifactId>
 			<version>2.10.2</version>
