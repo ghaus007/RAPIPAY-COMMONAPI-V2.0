@@ -32,11 +32,11 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-		<dependency>
-			<groupId>com.rapipay</groupId>
-			<artifactId>connectorWAD</artifactId>
-			<version>14.0.0</version>
-		</dependency>
+		#<dependency>
+		#	<groupId>com.rapipay</groupId>
+		#	<artifactId>connectorWAD</artifactId>
+		#	<version>14.0.0</version>
+		#</dependency>
 		<dependency>
 			<groupId>org.json</groupId>
 			<artifactId>json</artifactId>
